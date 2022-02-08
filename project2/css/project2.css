@@ -1,0 +1,15 @@
+.is{
+    color: #bdbdbd;
+    transition: .1s ease;
+
+}
+
+.is:hover{
+    transition: .1s ease;
+    color: #ff7878;
+}
+.social li{
+    display: inline-block;
+    margin: 10px;
+
+}
